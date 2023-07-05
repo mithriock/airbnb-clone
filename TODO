@@ -24,11 +24,15 @@ Configuración ambiente.p2:
     ✔ ADD globals.css (add tailwind directives) @done(23-07-04 19:23)
         ✔ @tailwind base; @tailwind components; @tailwind utilities; @done(23-07-04 19:23)
     ✔ EXECUTE npm run dev @done(23-07-04 19:26)
-Sobre app:
+Sobre app folder:
     ✔ ADD className (div) @done(23-07-04 19:29)
         ✔ text-rose-500 text-2xl @done(23-07-04 19:29)
-    ☐ 
-
+    
+Navbar:
+    ✔ Componente Logo @done(23-07-05 00:12)
+    ✔ Componente Search @done(23-07-05 00:12)
+    ✔ Instalar npm i react-icons @started(23-07-05 00:13) @done(23-07-05 00:32) @lasted(19m21s)
+    ✔ Instalar jest typescript (Adicional) => npm i -D jest ts-jest @types/jest ts-node @done(23-07-05 00:32)
 
 
     
